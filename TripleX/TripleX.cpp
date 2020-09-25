@@ -91,7 +91,7 @@ int main ()
             }
         }
     }
-    std::cout << "            <<<We doth bid thee wilcuma, kinsman.>>>\n\n";
+    std::cout << "             <<<We doth bid thee wilcuma, kinsman.>>>\n\n";
     std::cin.get();
     return 0;   
 }
